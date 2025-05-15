@@ -29,6 +29,7 @@ On hovering over a cell:
 
 *Important note*: In this task, you are allowed to link `*.scss` files directly in HTML `<link>` tags using `href` attribute.
 This is possible because [we use the Parcel library](https://en.parceljs.org/scss.html) to bundle your solution's source code.
+
 ![reference image](reference.png).
 
 ## Checklist
